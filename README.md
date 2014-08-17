@@ -4,6 +4,8 @@ Here are all of the [packages I maintain](https://aur.archlinux.org/packages/?Se
 
 ### Packages
 
+* [bibfilex-gtk](bibfilex-gtk/)
+* [bibfilex-qt](bigfilex-qt/)
 * [mdocml](mdocml/)
 * [obvious-git](obvious-git/)
 * [rainbarf-git](rainbarf-git/)

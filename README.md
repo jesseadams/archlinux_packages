@@ -1,6 +1,6 @@
 ## ArchLinux Packages
 
-Here are all of the [packages I maintain](https://aur.archlinux.org/packages/?SeB#m&K#techno-geek) for the [AUR (Arch User Repository)](https://aur.archlinux.org/). If you find any issues with my packages please feel free to submit a pull request.
+Here are all of the [packages I maintain](https://aur.archlinux.org/packages/?SeB=m&K=techno-geek) for the [AUR (Arch User Repository)](https://aur.archlinux.org/). If you find any issues with my packages please feel free to submit a pull request.
 
 ### Packages
 

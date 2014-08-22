@@ -25,6 +25,9 @@ Here are all of the [packages I maintain](https://aur.archlinux.org/packages/?Se
 Please install the [pkgbuild-introspection](https://github.com/falconindy/pkgbuild-introspection) package to build and maintain .AURINFO metadata files.
 
     cd foo
+    ../md5s.sh
+    # Copy the new MD5 checksums into the PKGBUILD file
+    ../md5s.sh -v
     mkaurball
 
 Then you can upload foo-1.0.0-1.src.tar.gz via the [AUR submit page](https://aur.archlinux.org/submit/).
